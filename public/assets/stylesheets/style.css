@@ -967,7 +967,7 @@ select, textarea, input[type="text"], input[type="password"], input[type="dateti
     color: #555;
 }
 input, textarea {
-  width: 290px;
+  width: 210px;
   margin: 0;
 }
 textarea {
