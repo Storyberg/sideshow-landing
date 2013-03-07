@@ -209,6 +209,8 @@ body { _text-align:center; }
 .fold > .span6of8 { width: 100%; }
 .fold > .span7of8 { width: 100%; }
 .fold > .span8of8 { width: 100%; }
+
+.rBlock { display: block }
 @media screen and (min-width: 720px) {
     .fold {
         clear: none;
@@ -222,6 +224,8 @@ body { _text-align:center; }
     .fold > .span6of8 { width: 75%; }
     .fold > .span7of8 { width: 87.5%; }
     .fold > .span8of8 { width: 100%; }
+
+    .rBlock { display: inline }
 }
 @media screen and (min-width: 1392px) {
     .body { margin: 0 16.666666666666664%; }
